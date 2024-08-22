@@ -1,0 +1,3 @@
+([('interface',
+   '/Users/robertlongo/Desktop/Functions/Python/SCRIPTS/excel-cracker/dist/interface',
+   'EXECUTABLE')],)
