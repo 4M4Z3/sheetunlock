@@ -1,3 +1,5 @@
 SheetUnlock App.
 
-Includes dist compiled for Mac ARM64 processors. Use pyinstaller to compile into an executable on your machine.
+Includes a distribution compiled for Mac ARM64 processors. 
+
+Feel free to run the Python script or Uie pyinstaller to compile into an executable on your machine.
